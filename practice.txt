@@ -1,0 +1,6 @@
+Vim is a powerful text editor.
+It has different modes for editing and navigating.
+You can copy, delete, and move lines easily.
+Practice makes perfect.
+This is a line to delete.
+This is a line to copy.
